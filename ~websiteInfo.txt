@@ -1,0 +1,296 @@
+[hero Ana] **ANA**
+
+| Ability/Weapon Name | Keybind | Changes |
+| -------- | -------- | -------- |
+| ==Base== | - | Health Increased from 200 to 225 |
+| ==Nano-Boost== | Ultimate | Ultimate Cost Decreased from 2100 to 1200 |
+
+-----
+
+[hero Ashe] **ASHE**
+
+| Ability/Weapon Name | Keybind | Changes |
+| -------- | -------- | -------- |
+| ==Base== | - | Health Increased from 200 to 225 |
+| ==B.O.B.== | Ultimate | Ultimate Cost Decreased from 2240 to 1350 |
+
+-----
+
+[hero Baptiste] **BAPTISTE**
+
+| Ability/Weapon Name | Keybind | Changes |
+| -------- | -------- | -------- |
+| ==Base== | - | Health Increased from 200 to 250 |
+| ==Immortality Field== | Ability 2 | Can be used once throughout the entire round |
+| ==Amplification Matrix== | Ultimate | Ultimate Cost Decreased from 2310 to 900 |
+
+-----
+
+[hero Bastion] **BASTION**
+
+| Ability/Weapon Name | Keybind | Changes |
+| -------- | -------- | -------- |
+| ==Self-Repair== | Secondary | Regeneration Rate Decreased by 50% |
+| ==Configuration: Tank== | Ultimate | Ultimate Cost Decreased from 2310 to 1600 |
+
+-----
+
+[hero Brigitte] **BRIGITTE**
+
+| Ability/Weapon Name | Keybind | Changes |
+| -------- | -------- | -------- |
+| ==Barrier Shield== | Secondary | Recharge Rate Decreased from 85 to 25/s |
+| ==Whip Shot== | Ability 1 | Cooldown Increased from 4.0 to 6.0 |
+| ==Rally== | Ultimate | Ultimate Cost Decreased from 2800 to 1400 |
+
+-----
+
+[hero D.Va] **D.VA**
+
+| Ability/Weapon Name | Keybind | Changes |
+| -------- | -------- | -------- |
+| ==Base== | - | Health Decreased from 600-150 to 500-125 |
+| ==Defense Matrix== | Secondary | Recharge Rate Decreased by 50% |
+| ==Self-Destruct== | Ultimate | Ultimate Cost Increased from 1540 to 1700 |
+
+-----
+
+[hero Doomfist] **DOOMFIST**
+
+| Ability/Weapon Name | Keybind | Changes |
+| -------- | -------- | -------- |
+| ==Rocket Punch== | Secondary | Cooldown Increased from 4.0s to 6.0s |                                                                                                                                    |
+| ==Meteor Strike== | Ultimate | Ultimate Cost Decreased from 1680 to 1400 |
+
+-----
+
+[hero Echo] **ECHO**
+
+| Ability/Weapon Name | Keybind | Changes |
+| -------- | -------- | -------- |
+| ==Duplicate== | Ultimate | Ultimate Cost Decreased from 1960 to 1200 |
+
+-----
+
+[hero Genji] **GENJI**
+
+| Ability/Weapon Name | Keybind | Changes |
+| -------- | -------- | -------- |
+| ==Dragonblade== | Ultimate | Charges up the longer you hold onto it. Ultimate Cost Decreased from 1932 to 1400 |
+
+-----
+
+[hero Hanzo] **HANZO**
+
+| Ability/Weapon Name | Keybind | Changes |
+| -------- | -------- | -------- |
+| ==Storm Arrows== | Ability 2 | Quantity Decreased from 5 to 4 |
+| ==Dragonstrike== | Ultimate | Ultimate Cost Decreased from 1680 to 1600 |
+
+-----
+
+[hero Junkrat] **JUNKRAT**
+
+| Ability/Weapon Name | Keybind | Changes |
+| -------- | -------- | -------- |
+| ==RIP-Tire== | Ultimate | Ultimate Cost Increased from 1925 to 2000 |
+
+-----
+
+[hero Lucio] **LUCIO** 
+
+| Ability/Weapon Name | Keybind | Changes |
+| -------- | -------- | -------- |
+| ==Crossfade== | Ability 1 | Healing Decreased from 12.3 to 7.0 per second |
+| ==Amp It Up== | Ability 2 | Healing Decreased from 40 to 22.75/s. Cooldown increased from 12.0s to 18.0s |
+| ==Sound Barrier== | Ultimate | Ultimate Cost Decreased from 2940 to 1350 |
+
+-----
+
+[hero Mccree] **MCCREE**
+
+| Ability/Weapon Name | Keybind | Changes |
+| -------- | -------- | -------- |
+| ==Peacemaker== | Primary | Damage Decreased from 35-70 to 29.75-59.5 |
+| ==Peacemaker== | Secondary | Damage Decreased from 25-50 to 21.25-42.5 |
+| ==Deadeye== | Ultimate | Ultimate Cost Decreased from 1680 to 1100 |
+
+-----
+
+[hero Mei] **MEI**
+
+| Ability/Weapon Name | Keybind | Changes |
+| -------- | -------- | -------- |
+| ==Endothermatic Blaster== | Primary | Minimum Freeze Decreased from 30% to 20%. Freeze Duration Decreased from 1.3 seconds to 1.0 seconds. Freeze Rate Decreased from 100% to 70% |
+| ==Blizzard== | Ultimate | Minimum Freeze Increased from 50% to 75%. Freeze Rate Decreased from 100% to 15%. Ultimate Cost Decreased from 1610 to 1400 |
+
+-----
+
+[hero Mercy] **MERCY**
+
+| Ability/Weapon Name | Keybind | Changes |
+| -------- | -------- | -------- |
+| ==Caduceus Blaster== | Primary | Damage Increased from 20 to 22 |
+| ==Caduceus Staff== | Primary | Deals Exponentially Increasing Damage to a Single Target |
+| ==Valkyrie== | Ultimate | Ultimate Cost Decreased from ~1525 to 850 |
+
+-----
+
+[hero Moira] **MOIRA**
+
+| Ability/Weapon Name | Keybind | Changes |
+| -------- | -------- | -------- |
+| ==Coalescense== | Ultimate | Ultimate Cost Decreased from 2380 to 1300 |
+
+-----
+
+[hero Orisa] **ORISA**
+
+| Ability/Weapon Name | Keybind | Changes |
+| -------- | -------- | -------- |
+| ==Fortify== | Ability 1 | Cooldown Decreased from 10.0 seconds to 7.5 seconds |
+| ==Supercharger== | Ultimate | Ultimate Cost Decreased from 1680 to 1100 |
+
+-----
+
+[hero Pharah] **PHARAH**
+
+==No Changes==
+
+-----
+
+[hero Reaper] **REAPER**
+
+| Ability/Weapon Name | Keybind | Changes |
+| -------- | -------- | -------- |
+| ==Hellfire Shotguns== | Primary | Damage Decreased from 1.8-6 to 1.65-5.5 |
+| ==Wraith Form== | Ability 1 | Cooldown Increased from 8.0s to 10.0s |
+| ==Death Blossom== | Ultimate | Damage Decreased from 510 to 467.5 per person. Ultimate Cost Decreased from 2100 to 1800 | 
+
+-----
+
+[hero Reinhardt] **REINHARDT**
+
+| Ability/Weapon Name | Keybind | Changes |
+| -------- | -------- | -------- |
+| ==Barrier Field== | Secondary | Health Decreased from 1600 to 1000. Regeneration Rate Decreased from 200 to 50/s |
+| ==Earthshatter== | Ultimate | Ultimate Cost Decreased from 1540 to 1400 | 
+
+-----
+
+[hero Roadhog] **ROADHOG**
+
+| Ability/Weapon Name | Keybind | Changes |
+| -------- | -------- | -------- |
+| ==Base== | - | Health Decreased from 600 to 500 |
+| ==Scrap Gun== | Primary/Secondary | Damage Decreased from 1.8-6.6/50 to 1.53-5.1/42.5 per pellet |
+| ==Take A Breather== | Ability 2 | Healing Amount Decreased from 300 to 100 | 
+| ==Whole Hog== | Ultimate | Damage Decreased From 7.0 to 2.1 per pellet. Ultimate Cost Decreased from 2240 to 1800 | 
+
+-----
+
+[hero Sigma] **SIGMA**
+
+| Ability/Weapon Name | Keybind | Changes |
+| -------- | -------- | -------- |
+| ==Gravitic Flux== | Ultimate | Ultimate Cost Decreased from 1960 to 1650 | 
+
+-----
+
+[hero Soldier 76] **SOLDIER 76**
+
+| Ability/Weapon Name | Keybind | Changes |
+| -------- | -------- | -------- |
+| ==Base== | - | Health Increased from 200 to 225 |
+| ==Biotic Field== | Ability 2 | Total Healing Decreased from 175 to 70 |
+| ==Tactical Visor== | Ultimate | Ultimate Cost Decreased from 2310 to 1800 |
+
+-----
+
+[hero Sombra] **SOMBRA**
+
+| Ability/Weapon Name | Keybind | Changes |
+| -------- | -------- | -------- |
+| ==Machine Pistol== | Primary | Damage Increased from 2.4-8 to 2.5-8.3 per pellet |
+| ==Hack== | Secondary | Cooldown Increased from 8.0/4.0/2.0 to 10.0/5.0/2.5 seconds |
+| ==Stealth== | Ability 1 | Cooldown Decreased from 6.0 to 5.0 seconds. Limited by a stealth value which regenerates when not being used, and decays when being used |
+| ==Translocator== | Ability 2 | Cooldown Increased from 6.0 seconds to 10.0 seconds |
+| ==EMP== | Ultimate | Now grants Sombra with 100 Temporary Shield until EMP is over. Ultimate Cost Decreased from 1400 to 950 |
+
+-----
+
+[hero Symmetra] **SYMMETRA**
+
+| Ability/Weapon Name | Keybind | Changes |
+| -------- | -------- | -------- |
+| ==Photon Barrier== | Ultimate | Ultimate Cost Decreased from 1680 to 1100 |
+
+-----
+
+[hero Torbjorn] **TORBJORN**
+
+| Ability/Weapon Name | Keybind | Changes |
+| -------- | -------- | -------- |
+| ==Deploy Turret== | Ability 1 | Can be used once throughout the entire round |
+| ==Molten Core== | Ultimate | Ultimate Cost Decreased from 2142 to 1400 |
+
+-----
+
+[hero Tracer] **TRACER**
+
+| Ability/Weapon Name | Keybind | Changes |
+| -------- | -------- | -------- |
+| ==Blink== | Ability 1 | Cooldown Increased from 3.0 to 4.0 seconds |
+| ==Pulse Bomb== | Ultimate | Ultimate Cost Decreased from 1260 to 1200 |
+
+-----
+
+[hero Widowmaker] **WIDOWMAKER**
+
+| Ability/Weapon Name | Keybind | Changes |
+| -------- | -------- | -------- |
+| ==Base== | - | Health Increased from 175 to 200 |
+| ==Widow's Kiss== | Primary | Scoped Damage Increased from 6-12/60-120 to 8-16/80-160 |
+| ==Grappling Hook== | Ability 1 | Cooldown Decreased from 12.0 to 10.0 |
+| ==Venom Mine== | Ability 2 | Cooldown Decreased from 15.0 to 10.0 |
+| ==Infra-Sight== | Ultimate | Duration Decreased from 15.0 to 10.0 seconds. Ultimate Cost Decreased from 1540 to 750 |
+
+-----
+
+[hero Winston] **WINSTON**
+
+| Ability/Weapon Name | Keybind | Changes |
+| -------- | -------- | -------- |
+| ==Tesla Cannon== | Primary | Damage Increased from 60 to 75 per second. Clip Size Decreased from 100 to 50 |
+| ==Jump Pack== | Ability 1 | Damage Increased from 1-50 to 1.25-62.5 |
+| ==Barrier Projector== | Ability 2 | Cooldown Decreased from 13.0 to 11.0 seconds |
+| ==Primal Rage== | Ultimate | Charges up from taking damage, not dealing damage. Damage Increased from 40 to 50 per swing. Health Decreased from 1000 to 900 |
+
+-----
+
+[hero Wrecking Ball] **WRECKING BALL**
+
+| Ability/Weapon Name | Keybind | Changes |
+| -------- | -------- | -------- |
+| ==Base== | - | Health Decreased from 600 to 450 |
+| ==Minefield== | Ultimate | Ultimate Cost Decreased from 1540 to 1100 |
+
+-----
+
+[hero Zarya] **ZARYA**
+
+| Ability/Weapon Name | Keybind | Changes |
+| -------- | -------- | -------- |
+| ==Particle Barrier== | Ability 1 | Cooldown Decreased from 10.0s to 8.0s |
+| ==Projected Barrier== | Ability 2 | Disabled |
+| ==Graviton Surge== | Ultimate | Ultimate Cost Decreased from 2100 to 1600 |
+
+-----
+
+[hero Zenyatta] **ZENYATTA**
+
+| Ability/Weapon Name | Keybind | Changes |
+| -------- | -------- | -------- |
+| ==Base== | - | Health Increased from 50/150 to 75/175 |
+| ==Orb of Destruction== | Primary | Damage Decreased from 48/240 to 40/200 |
+| ==Transcendence== | Ultimate | Ultimate Cost Decreased from 2310 to 1100 |
